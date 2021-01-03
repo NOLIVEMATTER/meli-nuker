@@ -41,6 +41,8 @@ def banner():
 
 
                                              {r}User:    {w}[{r}{client.user.name}{w}#{r}{client.user.discriminator}{w}] 
+                                             made by rain#0004 & envy#1212
+                                             discord.gg/meli
                                {w}════════════════════════════════════════════════════════════════
 ''' + Fore.RESET)
 
