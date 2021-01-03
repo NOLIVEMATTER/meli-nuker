@@ -180,4 +180,4 @@ async def help(ctx):
     
     embed.set_footer(text=f'meli')
     await ctx.send(embed=embed,delete_after=10)
-client.run('NzkwNDAwMDU5NzM2MzI2MTU0.X-6pQQ.e62u4_As2r1hWMiYlnyiSd5xh_k', bot=False)    
+client.run('TOKEN GOES HERE', bot=False)    
